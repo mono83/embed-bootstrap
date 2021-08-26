@@ -1,0 +1,9 @@
+# IDE and development
+/.idea/
+*.iml
+
+# Assets filtering - only minified versions
+/assets/css/*
+/assets/js/*
+!/assets/css/*.min.css
+!/assets/js/*.min.js
